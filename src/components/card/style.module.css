@@ -1,0 +1,36 @@
+.card {
+    width: 90%;
+    height: 30rem;
+    background: #ffff;
+    border-radius: 30px;
+
+    display: flex;
+    flex-direction: column;
+    aling-itens: center;
+    justify-content: center;
+
+    padding: 3rem;
+    margin: 7rem;
+
+}
+
+.card p {
+    color: #000;
+    display: flex;
+    aling-itens: center;
+    justify-content: center;
+
+    text-align: center;
+}
+
+.img1 {
+    padding-bottom: 3rem;
+    margin: 0 auto;
+    width: 15rem;
+}
+
+.img2 {
+    padding-top: 3rem;
+    margin: 0 auto;
+    width: 15rem;
+}
